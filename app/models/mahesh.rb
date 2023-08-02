@@ -1,0 +1,2 @@
+class Mahesh < ApplicationRecord
+end
